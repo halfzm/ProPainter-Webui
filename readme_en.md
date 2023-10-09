@@ -5,7 +5,7 @@ A webui that you can easily pick up objects from the video and eliminate them.
 ![](./demo.gif)
 
 ## Getting started
-If you don't want to install the environment, you can download the package directly.
+If you don't want to install the environment, you can download the package directly.\
 link [百度网盘](https://pan.baidu.com/s/1XkQhzCzTtzVfgQg5heQQrA?pwd=jo38 )\
 tutorial [bilibili]() [youtube]()
 
