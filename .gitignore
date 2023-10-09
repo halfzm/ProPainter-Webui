@@ -1,0 +1,23 @@
+.vscode
+ckpt/*
+assets/*masks
+assets/*mp4
+# assets/*zip
+assets/*gif
+*.pyc
+debug
+cym_utils
+/src
+/tracking_results
+/aot/results
+/aot/pretrain_models
+/aot/datasets
+/Propainter/weights
+env
+demo
+ckpt
+output
+results
+result
+img_logs
+__pycache__
