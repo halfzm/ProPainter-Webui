@@ -7,7 +7,7 @@
 ## 使用
 如果不想安装环境也可以直接下载整合包，下载后双击start.bat即可\
 下载链接 [百度网盘](https://pan.baidu.com/s/1XkQhzCzTtzVfgQg5heQQrA?pwd=jo38 )\
-使用教程 [bilibili]() [youtube]()
+使用教程 [bilibili](https://www.bilibili.com/video/BV1NH4y1o7mS/) [youtube](https://www.youtube.com/watch?v=CcivHjbHIcQ)
 
 ### 克隆项目到本地
 ```
