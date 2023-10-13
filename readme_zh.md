@@ -64,3 +64,7 @@ python app.py
 ## 参考
  - [Segment-ant-Track-Anything](https://github.com/z-x-yang/Segment-and-Track-Anything)
  - [ProPainter](https://github.com/sczhou/ProPainter)
+
+
+## 星标历史
+[![Star History Chart](https://api.star-history.com/svg?repos=halfzm/ProPainter-Webui&type=Date)](https://star-history.com/#halfzm/ProPainter-Webui&Date)
