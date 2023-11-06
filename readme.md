@@ -12,7 +12,7 @@ tutorial [bilibili](https://www.bilibili.com/video/BV1NH4y1o7mS/) [youtube](http
 
 ### clone repo
 ```
-git clone https://github.com/halfzm/ProPainiter-Webui.git
+git clone git@github.com:halfzm/ProPainter-Webui.git
 ```
 
 ### create conda enviroment
