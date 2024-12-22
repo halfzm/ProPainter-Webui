@@ -22,7 +22,7 @@ conda activate propainter
 
 ### install dependencies
 Just follow the instructions in [Segment-ant-Track-Anything](https://github.com/z-x-yang/Segment-and-Track-Anything)
- 和 [ProPainter](https://github.com/sczhou/ProPainter)（P.S.Don't need to install groundingdino, I have put it in the project.）
+ and [ProPainter](https://github.com/sczhou/ProPainter)（P.S.Don't need to install groundingdino, I have put it in the project.）
 ```
 pip install -r requirements.txt
 ```
